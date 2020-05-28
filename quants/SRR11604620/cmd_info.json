@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.2.1",
+    "index": "transcripts/gencode.v29.transcripts",
+    "libType": "A",
+    "threads": "8",
+    "validateMappings": [],
+    "gcBias": [],
+    "output": "quants/SRR11604620",
+    "unmatedReads": "data/SRR11604620.fastq",
+    "auxDir": "aux_info"
+}
